@@ -1,6 +1,7 @@
 
 
 NU Faculty Web Scraper
+
 This project scrapes faculty data from NU Lahore Campus (http://lhr.nu.edu.pk/faculty/) using Python. It extracts faculty details like names, designations, HEC approval status, department, email addresses, and profile images from various departments and exports the results to structured CSV files.
 📑 Table of Contents
 ✨ Features
