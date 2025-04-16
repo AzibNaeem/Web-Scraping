@@ -65,4 +65,4 @@ nu-faculty-scraper/
 └── README.md               # You're here!
 📜 License
 This project is licensed under the MIT License.
-👨‍💻 Built with ❤️ by [Your Name]
+👨‍💻 Built with ❤️ by M. Azib Naeem
